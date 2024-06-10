@@ -28,7 +28,7 @@ To get a local copy of this project up and running, follow these steps:
 
 bash
 Copy code
-git clone https://github.com/yourusername/amazon-front-page-clone.git
+git clone https://github.com/ProblemShooter/Amazon-front-page
 Navigate to the project directory:
 
 bash
